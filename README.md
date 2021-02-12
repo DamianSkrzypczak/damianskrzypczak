@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub metrics](https://metrics.lecoq.io/DamianSkrzypczak)](https://github.com/lowlighter/metrics)
+<!-- 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=damianskrzypczak)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
